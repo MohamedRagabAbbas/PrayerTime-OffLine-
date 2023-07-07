@@ -1,6 +1,13 @@
 # Prayer Times, Hadith, and Azkar App
 
 This application is designed to provide accurate prayer times, display a collection of Hadith, and offer a digital Tasbeeh (electronic Sebha) for users. The app can be used offline, eliminating the need for internet access. Additionally, it includes a comprehensive collection of Azkar (remembrance of Allah).
+hhttps://github.com/MohamedRagabAbbas/PrayerTime-OffLine-.git
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_1.png?raw=true)
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_2.png?raw=true)
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_3.png?raw=true)
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_4.png?raw=true)
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_5.png?raw=true)
+![alt text](https://github.com/[MohamedRagabAbbas]/[PrayerTime-OffLine-]/ScreenShots/Screenshot_6.png?raw=true)
 
 ## Table of Contents
 
