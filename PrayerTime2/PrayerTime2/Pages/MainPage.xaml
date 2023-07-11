@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.MainPage"
+            xmlns:pages="clr-namespace:PrayerTime2.Pages"
+       >
+
+
+
+   <!-- <Shell.ItemTemplate>
+        <DataTemplate>
+            <StackLayout BackgroundColor="#ADCF9F" HeightRequest="65" VerticalOptions="StartAndExpand" FlowDirection="RightToLeft">
+                <BoxView HeightRequest="1" Color="Gray"/>
+                <Grid ColumnDefinitions=".3*,.7*" HorizontalOptions="Center" Margin="0,0,20,0">
+                    <Image Source="{Binding FlyoutIcon}"
+                       HeightRequest="25" />
+                    <Label Grid.Column="1"
+                       WidthRequest="300"
+                       Text="{Binding Title}"
+                      
+                       VerticalTextAlignment="Center" 
+                           HorizontalOptions="CenterAndExpand"
+                           VerticalOptions="Center" FontSize="20"/>
+                </Grid>
+            </StackLayout>
+        </DataTemplate>
+    </Shell.ItemTemplate>-->
+
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems" Shell.NavBarIsVisible="False" >
+        <Tab Title="مواقيت الصلاة" Icon="sgood.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:PrayerTimePage}" />
+        </Tab>
+        <Tab Title="احاديث نبوية" Icon="book.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:AhadithPage}"/>
+        </Tab>
+        <Tab Title="الاذكار" Icon="praying.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:AzkarPage}"/>
+        </Tab>
+        <Tab Title="السبحة" Icon="sepha.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:SephaPage}"/>
+        </Tab>
+    </FlyoutItem>
+</Shell>

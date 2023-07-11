@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.SephaPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Source="Mosque.jpg" Aspect="AspectFill" Grid.Row="0"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".4*"/>
+                    <RowDefinition Height=".2*"/>
+                    <RowDefinition Height=".4*"/>
+                </Grid.RowDefinitions>
+                <Frame CornerRadius="100" Margin="20" HasShadow="True" BackgroundColor="#B9F8D3" Opacity=".8" BorderColor="#B4FF9F" Grid.Row="0">
+                    <StackLayout HorizontalOptions="Center" VerticalOptions="Center" FlowDirection="RightToLeft">
+                        <Label x:Name="lable" FontFamily="2" TextColor="Black" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        <Label x:Name="Count" FontFamily="2" TextColor="Black" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        <Label x:Name="ager"  FontFamily="2" TextColor="#133B5C" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    </StackLayout>
+                </Frame>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".2*"/>
+                        <ColumnDefinition Width=".6*"/>
+                        <ColumnDefinition Width=".2*"/>
+                    </Grid.ColumnDefinitions>
+                    <ImageButton Source="left.png" CornerRadius="30" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center" Clicked="ImageButton_Clicked"/>
+                    <ImageButton Source="right.png" CornerRadius="30" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" Clicked="ImageButton_Clicked_1"/>
+                    <Frame CornerRadius="100" Margin="0" HasShadow="True" BackgroundColor="#B9F8D3" Opacity=".8" BorderColor="#B4FF9F" Grid.Column="1" Padding="0">
+                        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" FlowDirection="RightToLeft">
+                            <Label x:Name="counter" FontFamily="2" Text="عدد مرات التسبيح هي 0" TextColor="Black" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center"/>
+                            <Label x:Name="hasana" FontFamily="2" Text="عدد الحسنات قد تكون 0" TextColor="Black" FontSize="20" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+                </Grid>
+                <ImageButton Source="add.png" CornerRadius="60" Grid.Row="2" HorizontalOptions="Center" VerticalOptions="Center"  BackgroundColor="Transparent" Clicked="ImageButton_Clicked_2"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

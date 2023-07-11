@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.AhadithPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Source="mosque2.jpg" Aspect="AspectFill" Grid.Row="0"/>
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".4*"/>
+                    <RowDefinition Height=".6*"/>
+                </Grid.RowDefinitions>
+                <Image Source="logo2.png" Aspect="Fill" Grid.Row="0" Margin="40,40,40,10"/>
+                <ScrollView Margin="5" FlowDirection="RightToLeft" Grid.Row="1">
+                    <StackLayout  FlowDirection="MatchParent">
+                        <Button Text="احاديث نبوية القسم الاول" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_1"/>
+                        <Button Text="احاديث نبوية القسم الثاني" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_2"/>
+                        <Button Text="احاديث نبوية القسم الثالث" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_3"/>
+                        <Button Text="احاديث نبوية القسم الرابع" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_4"/>
+                        <Button Text="احاديث نبوية القسم الخامس" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_5"/>
+                        <Button Text="احاديث نبوية القسم السادس" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_6"/>
+                        <Button Text="احاديث نبوية القسم السابع" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_7"/>
+                        <Button Text="احاديث نبوية القسم الثامن" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_8"/>
+                        <Button Text="احاديث نبوية القسم التاسع" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_9"/>
+                        <Button Text="احاديث نبوية القسم العاشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_10"/>
+                        <Button Text="احاديث نبوية القسم الاحد عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_11"/>
+                        <Button Text="احاديث نبوية القسم الثاني عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_12"/>
+                        <Button Text="احاديث نبوية القسم الثالث عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_13"/>
+                        <Button Text="احاديث نبوية القسم الرابع عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_14"/>
+                        <Button Text="احاديث نبوية القسم الخامس عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_15"/>
+                        <Button Text="احاديث نبوية القسم السادس عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_16"/>
+                        <Button Text="احاديث نبوية القسم السابع عشر" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_17"/>
+                    </StackLayout>
+                </ScrollView>
+                
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

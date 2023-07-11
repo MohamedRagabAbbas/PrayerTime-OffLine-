@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.DisplayHadith"
+             Shell.NavBarIsVisible="True">
+    
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Source="mosque3.jpg" Aspect="AspectFill" Grid.Row="0"/>
+            <ListView Grid.Row="0" x:Name="listview" Margin="20" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <ViewCell.View>
+                                <Frame CornerRadius="20" Opacity=".7" Margin="10" BackgroundColor="#F9F2ED">
+                                    <Label Text="{Binding arab}"   TextColor="Black" FontSize="20" FontFamily="font1" />
+                                </Frame>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

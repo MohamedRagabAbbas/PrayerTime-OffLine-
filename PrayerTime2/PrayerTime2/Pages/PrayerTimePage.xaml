@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.PrayerTimePage"
+             >
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Source="Mosque.jpg" Aspect="AspectFill" Grid.Row="0"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height=".25*"/>
+                    <RowDefinition Height=".6*"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Text="إنما نحن مسلمون" FontFamily="font3" TextColor="#FEF5ED" FontSize="40" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center" Margin="10,10,10,0"/>
+                <Frame Grid.Row="1" HasShadow="True" CornerRadius="50" BorderColor="#222831" Padding="0"  Margin="20,0,20,5" BackgroundColor="#6E85B7" Opacity=".3">
+                </Frame>
+                <Frame Grid.Row="1" HasShadow="False" CornerRadius="50"    Margin="20,0,20,5" BackgroundColor="Transparent"  >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <StackLayout HorizontalOptions="Center" Orientation="Horizontal" FlowDirection="RightToLeft" Grid.Row="0"  VerticalOptions="Center" Margin="0,-20,0,0">
+                            <Label Text="بأمكانك تغير التاريخ" TextColor="White" FontSize="18" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" HorizontalOptions="Center" VerticalOptions="Center" FontFamily="font2"/>
+                            <DatePicker x:Name="datepicker" DateSelected="datepicker_DateSelected" FontFamily="font2"/>
+                        </StackLayout>
+                        <StackLayout FlowDirection="RightToLeft" Grid.Row="1" Margin="0,-5,0,0">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width=".4*"/>
+                                    <ColumnDefinition Width=".3*"/>
+                                    <ColumnDefinition Width=".4*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label x:Name="yowm"  FontFamily="font2" TextColor="White" FontSize="18" VerticalTextAlignment="Center" Grid.Column="1" HorizontalTextAlignment="Center" WidthRequest="100"/>
+                                <Label x:Name="melady" FontFamily="font2" TextColor="White" FontSize="18" VerticalTextAlignment="Center" Grid.Column="0" HorizontalTextAlignment="Center"/>
+                                <Label x:Name="hegry"   FontFamily="font2" TextColor="White" FontSize="18" VerticalTextAlignment="Center" Grid.Column="2" HorizontalTextAlignment="Center"/>
+                            </Grid>
+                        </StackLayout>
+                        <StackLayout Grid.Row="2" FlowDirection="RightToLeft">
+                            <Label x:Name="AfterTimeLable"  FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="1" HorizontalTextAlignment="Center" TextColor="White" VerticalTextAlignment="Center" FontSize="17" Margin="0"/>
+                        </StackLayout>
+                    </Grid>
+                </Frame>
+                <Grid Grid.Row="2" Padding="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Frame Grid.Row="0" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5"> 
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image  Source="fager.png" Grid.Column="0" Opacity="1" Margin="0,0,0,0"/>
+                            <Label FontFamily="font2" Text="صلاة الفجر" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+                            <Label FontFamily="font2" x:Name="fager" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    <Frame Grid.Row="1" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5">
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="shrook.png" Grid.Column="0" Opacity="1"/>
+                            <Label  FontFamily="font2" Text="الشروق" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                            <Label  FontFamily="font2" x:Name="shorok" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    <Frame Grid.Row="2" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5">
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="zohr.png" Grid.Column="0" Opacity="1"/>
+                            <Label  FontFamily="font2" Text="صلاة الظهر" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                            <Label  FontFamily="font2" x:Name="Zohr" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    <Frame Grid.Row="3" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5">
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="aser.png" Grid.Column="0" Opacity="1"/>
+                            <Label  FontFamily="font2" Text="صلاة العصر" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                            <Label  FontFamily="font2" x:Name="Aser" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    <Frame Grid.Row="4" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5">
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="maghreb.png" Grid.Column="0" Opacity="1"/>
+                            <Label  FontFamily="font2" Text="صلاة المغرب" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                            <Label  FontFamily="font2" x:Name="Maghreb" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    <Frame Grid.Row="5" CornerRadius="100" BackgroundColor="#301B3F" Opacity=".6" Padding="5">
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width=".5*"/>
+                                <ColumnDefinition Width=".25*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="esha.png" Grid.Column="0" Opacity="1"/>
+                            <Label  FontFamily="font2" Text="صلاة العشاء" Grid.Column="1" Opacity="1" TextColor="White" FontSize="20" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                            <Label  FontFamily="font2" x:Name="Ashea" Grid.Column="2" TextColor="White" FontSize="20" VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </Frame>
+                    
+                </Grid>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

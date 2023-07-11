@@ -1,0 +1,44 @@
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.deps.json
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.dll
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\ref\PrayerTime2.dll
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.pdb
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.csproj.AssemblyReference.cache
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\MainDataBase.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\AhadithPage.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\AzkarPage.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\DisplayHadith.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\DisplayZker.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\PrayerTimePage.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\SephaPage.xaml.g.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.AssemblyInfoInputs.cache
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.AssemblyInfo.cs
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.csproj.CoreCompileInputs.cache
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.dll
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\ref\PrayerTime2.dll
+C:\Users\AUC\source\repos\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.pdb
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.deps.json
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.dll
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\bin\Release\netstandard2.0\PrayerTime2.pdb
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.csproj.AssemblyReference.cache
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\MainDataBase.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\AhadithPage.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\AzkarPage.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\DisplayHadith.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\DisplayZker.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\MainPage.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\PrayerTimePage.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\Pages\SephaPage.xaml.g.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.AssemblyInfoInputs.cache
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.AssemblyInfo.cs
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.csproj.CoreCompileInputs.cache
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\XamlC.stamp
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.dll
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\refint\PrayerTime2.dll
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\PrayerTime2.pdb
+D:\Projects\Projects Xamarin\Others\PrayerTime2\PrayerTime2\PrayerTime2\obj\Release\netstandard2.0\ref\PrayerTime2.dll

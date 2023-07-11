@@ -1,0 +1,120 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\Changa-VariableFont_wght.ttf" />
+    <None Remove="Fonts\NotoNastaliqUrdu-Regular.ttf" />
+    <None Remove="Fonts\ScheherazadeNew-Regular.ttf" />
+    <None Remove="Model\Ahadith1.json" />
+    <None Remove="Model\Ahadith10.json" />
+    <None Remove="Model\Ahadith11.json" />
+    <None Remove="Model\Ahadith12.json" />
+    <None Remove="Model\Ahadith13.json" />
+    <None Remove="Model\Ahadith14.json" />
+    <None Remove="Model\Ahadith15.json" />
+    <None Remove="Model\Ahadith16.json" />
+    <None Remove="Model\Ahadith17.json" />
+    <None Remove="Model\Ahadith2.json" />
+    <None Remove="Model\Ahadith3.json" />
+    <None Remove="Model\Ahadith4.json" />
+    <None Remove="Model\Ahadith5.json" />
+    <None Remove="Model\Ahadith6.json" />
+    <None Remove="Model\Ahadith7.json" />
+    <None Remove="Model\Ahadith8.json" />
+    <None Remove="Model\Ahadith9.json" />
+    <None Remove="Model\Azkar.json" />
+    <None Remove="Model\month1.json" />
+    <None Remove="Model\month10.json" />
+    <None Remove="Model\month11.json" />
+    <None Remove="Model\month12.json" />
+    <None Remove="Model\month2.json" />
+    <None Remove="Model\month3.json" />
+    <None Remove="Model\month4.json" />
+    <None Remove="Model\month5.json" />
+    <None Remove="Model\month6.json" />
+    <None Remove="Model\month7.json" />
+    <None Remove="Model\month8.json" />
+    <None Remove="Model\month9.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Fonts\Changa-VariableFont_wght.ttf" />
+    <EmbeddedResource Include="Fonts\NotoNastaliqUrdu-Regular.ttf" />
+    <EmbeddedResource Include="Fonts\ScheherazadeNew-Regular.ttf" />
+    <EmbeddedResource Include="Model\Ahadith1.json" />
+    <EmbeddedResource Include="Model\Ahadith10.json" />
+    <EmbeddedResource Include="Model\Ahadith11.json" />
+    <EmbeddedResource Include="Model\Ahadith12.json" />
+    <EmbeddedResource Include="Model\Ahadith13.json" />
+    <EmbeddedResource Include="Model\Ahadith14.json" />
+    <EmbeddedResource Include="Model\Ahadith15.json" />
+    <EmbeddedResource Include="Model\Ahadith16.json" />
+    <EmbeddedResource Include="Model\Ahadith17.json" />
+    <EmbeddedResource Include="Model\Ahadith2.json" />
+    <EmbeddedResource Include="Model\Ahadith3.json" />
+    <EmbeddedResource Include="Model\Ahadith4.json" />
+    <EmbeddedResource Include="Model\Ahadith5.json" />
+    <EmbeddedResource Include="Model\Ahadith6.json" />
+    <EmbeddedResource Include="Model\Ahadith7.json" />
+    <EmbeddedResource Include="Model\Ahadith8.json" />
+    <EmbeddedResource Include="Model\Ahadith9.json" />
+    <EmbeddedResource Include="Model\Azkar.json" />
+    <EmbeddedResource Include="Model\month1.json" />
+    <EmbeddedResource Include="Model\month10.json" />
+    <EmbeddedResource Include="Model\month11.json" />
+    <EmbeddedResource Include="Model\month12.json" />
+    <EmbeddedResource Include="Model\month2.json" />
+    <EmbeddedResource Include="Model\month3.json" />
+    <EmbeddedResource Include="Model\month4.json" />
+    <EmbeddedResource Include="Model\month5.json" />
+    <EmbeddedResource Include="Model\month6.json" />
+    <EmbeddedResource Include="Model\month7.json" />
+    <EmbeddedResource Include="Model\month8.json" />
+    <EmbeddedResource Include="Model\month9.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="MainDataBase.xaml.cs">
+      <DependentUpon>MainDataBase.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Pages\AhadithPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\AzkarPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\DisplayHadith.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\DisplayZker.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\MainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\PrayerTimePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Pages\SephaPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

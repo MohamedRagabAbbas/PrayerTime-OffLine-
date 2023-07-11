@@ -1,0 +1,2556 @@
+﻿{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "timings": {
+        "Fajr": "04:40 (EET)",
+        "Sunrise": "06:08 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:46 (EET)",
+        "Sunset": "17:08 (EET)",
+        "Maghrib": "17:08 (EET)",
+        "Isha": "18:27 (EET)",
+        "Imsak": "04:30 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:28 (EET)",
+        "Lastthird": "01:48 (EET)"
+      },
+      "date": {
+        "readable": "01 Nov 2023",
+        "timestamp": "1698822061",
+        "gregorian": {
+          "date": "01-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": { "en": "Wednesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "17-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:41 (EET)",
+        "Sunrise": "06:09 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:46 (EET)",
+        "Sunset": "17:07 (EET)",
+        "Maghrib": "17:07 (EET)",
+        "Isha": "18:26 (EET)",
+        "Imsak": "04:31 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:28 (EET)",
+        "Lastthird": "01:48 (EET)"
+      },
+      "date": {
+        "readable": "02 Nov 2023",
+        "timestamp": "1698908461",
+        "gregorian": {
+          "date": "02-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": { "en": "Thursday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "18-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:42 (EET)",
+        "Sunrise": "06:10 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:45 (EET)",
+        "Sunset": "17:06 (EET)",
+        "Maghrib": "17:06 (EET)",
+        "Isha": "18:25 (EET)",
+        "Imsak": "04:32 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:49 (EET)"
+      },
+      "date": {
+        "readable": "03 Nov 2023",
+        "timestamp": "1698994861",
+        "gregorian": {
+          "date": "03-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": { "en": "Friday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "19-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:42 (EET)",
+        "Sunrise": "06:11 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:45 (EET)",
+        "Sunset": "17:06 (EET)",
+        "Maghrib": "17:06 (EET)",
+        "Isha": "18:25 (EET)",
+        "Imsak": "04:32 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:49 (EET)"
+      },
+      "date": {
+        "readable": "04 Nov 2023",
+        "timestamp": "1699081261",
+        "gregorian": {
+          "date": "04-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": { "en": "Saturday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "20-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:43 (EET)",
+        "Sunrise": "06:11 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:44 (EET)",
+        "Sunset": "17:05 (EET)",
+        "Maghrib": "17:05 (EET)",
+        "Isha": "18:24 (EET)",
+        "Imsak": "04:33 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:49 (EET)"
+      },
+      "date": {
+        "readable": "05 Nov 2023",
+        "timestamp": "1699167661",
+        "gregorian": {
+          "date": "05-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": { "en": "Sunday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "21-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:44 (EET)",
+        "Sunrise": "06:12 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:44 (EET)",
+        "Sunset": "17:04 (EET)",
+        "Maghrib": "17:04 (EET)",
+        "Isha": "18:23 (EET)",
+        "Imsak": "04:34 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:49 (EET)"
+      },
+      "date": {
+        "readable": "06 Nov 2023",
+        "timestamp": "1699254061",
+        "gregorian": {
+          "date": "06-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": { "en": "Monday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "22-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:44 (EET)",
+        "Sunrise": "06:13 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:43 (EET)",
+        "Sunset": "17:03 (EET)",
+        "Maghrib": "17:03 (EET)",
+        "Isha": "18:23 (EET)",
+        "Imsak": "04:34 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:50 (EET)"
+      },
+      "date": {
+        "readable": "07 Nov 2023",
+        "timestamp": "1699340461",
+        "gregorian": {
+          "date": "07-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": { "en": "Tuesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "23-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:45 (EET)",
+        "Sunrise": "06:14 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:43 (EET)",
+        "Sunset": "17:03 (EET)",
+        "Maghrib": "17:03 (EET)",
+        "Isha": "18:22 (EET)",
+        "Imsak": "04:35 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:50 (EET)"
+      },
+      "date": {
+        "readable": "08 Nov 2023",
+        "timestamp": "1699426861",
+        "gregorian": {
+          "date": "08-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": { "en": "Wednesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "24-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:46 (EET)",
+        "Sunrise": "06:15 (EET)",
+        "Dhuhr": "11:38 (EET)",
+        "Asr": "14:42 (EET)",
+        "Sunset": "17:02 (EET)",
+        "Maghrib": "17:02 (EET)",
+        "Isha": "18:22 (EET)",
+        "Imsak": "04:36 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:50 (EET)"
+      },
+      "date": {
+        "readable": "09 Nov 2023",
+        "timestamp": "1699513261",
+        "gregorian": {
+          "date": "09-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": { "en": "Thursday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "25-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:46 (EET)",
+        "Sunrise": "06:15 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:42 (EET)",
+        "Sunset": "17:01 (EET)",
+        "Maghrib": "17:01 (EET)",
+        "Isha": "18:21 (EET)",
+        "Imsak": "04:36 (EET)",
+        "Midnight": "23:38 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:51 (EET)"
+      },
+      "date": {
+        "readable": "10 Nov 2023",
+        "timestamp": "1699599661",
+        "gregorian": {
+          "date": "10-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": { "en": "Friday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "26-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:47 (EET)",
+        "Sunrise": "06:16 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:41 (EET)",
+        "Sunset": "17:01 (EET)",
+        "Maghrib": "17:01 (EET)",
+        "Isha": "18:21 (EET)",
+        "Imsak": "04:37 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:51 (EET)"
+      },
+      "date": {
+        "readable": "11 Nov 2023",
+        "timestamp": "1699686061",
+        "gregorian": {
+          "date": "11-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": { "en": "Saturday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "27-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:48 (EET)",
+        "Sunrise": "06:17 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:41 (EET)",
+        "Sunset": "17:00 (EET)",
+        "Maghrib": "17:00 (EET)",
+        "Isha": "18:20 (EET)",
+        "Imsak": "04:38 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:51 (EET)"
+      },
+      "date": {
+        "readable": "12 Nov 2023",
+        "timestamp": "1699772461",
+        "gregorian": {
+          "date": "12-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": { "en": "Sunday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "28-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:48 (EET)",
+        "Sunrise": "06:18 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:40 (EET)",
+        "Sunset": "17:00 (EET)",
+        "Maghrib": "17:00 (EET)",
+        "Isha": "18:20 (EET)",
+        "Imsak": "04:38 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:52 (EET)"
+      },
+      "date": {
+        "readable": "13 Nov 2023",
+        "timestamp": "1699858861",
+        "gregorian": {
+          "date": "13-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": { "en": "Monday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "29-04-1445",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rab\u012b\u02bf al-th\u0101n\u012b",
+            "ar": "\u0631\u064e\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:49 (EET)",
+        "Sunrise": "06:19 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:40 (EET)",
+        "Sunset": "16:59 (EET)",
+        "Maghrib": "16:59 (EET)",
+        "Isha": "18:19 (EET)",
+        "Imsak": "04:39 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:52 (EET)"
+      },
+      "date": {
+        "readable": "14 Nov 2023",
+        "timestamp": "1699945261",
+        "gregorian": {
+          "date": "14-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": { "en": "Tuesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "01-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:50 (EET)",
+        "Sunrise": "06:19 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:40 (EET)",
+        "Sunset": "16:59 (EET)",
+        "Maghrib": "16:59 (EET)",
+        "Isha": "18:19 (EET)",
+        "Imsak": "04:40 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:53 (EET)"
+      },
+      "date": {
+        "readable": "15 Nov 2023",
+        "timestamp": "1700031661",
+        "gregorian": {
+          "date": "15-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": { "en": "Wednesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "02-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:50 (EET)",
+        "Sunrise": "06:20 (EET)",
+        "Dhuhr": "11:39 (EET)",
+        "Asr": "14:39 (EET)",
+        "Sunset": "16:58 (EET)",
+        "Maghrib": "16:58 (EET)",
+        "Isha": "18:19 (EET)",
+        "Imsak": "04:40 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:53 (EET)"
+      },
+      "date": {
+        "readable": "16 Nov 2023",
+        "timestamp": "1700118061",
+        "gregorian": {
+          "date": "16-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": { "en": "Thursday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "03-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:51 (EET)",
+        "Sunrise": "06:21 (EET)",
+        "Dhuhr": "11:40 (EET)",
+        "Asr": "14:39 (EET)",
+        "Sunset": "16:58 (EET)",
+        "Maghrib": "16:58 (EET)",
+        "Isha": "18:18 (EET)",
+        "Imsak": "04:41 (EET)",
+        "Midnight": "23:39 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:53 (EET)"
+      },
+      "date": {
+        "readable": "17 Nov 2023",
+        "timestamp": "1700204461",
+        "gregorian": {
+          "date": "17-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": { "en": "Friday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "04-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:52 (EET)",
+        "Sunrise": "06:22 (EET)",
+        "Dhuhr": "11:40 (EET)",
+        "Asr": "14:39 (EET)",
+        "Sunset": "16:57 (EET)",
+        "Maghrib": "16:57 (EET)",
+        "Isha": "18:18 (EET)",
+        "Imsak": "04:42 (EET)",
+        "Midnight": "23:40 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:54 (EET)"
+      },
+      "date": {
+        "readable": "18 Nov 2023",
+        "timestamp": "1700290861",
+        "gregorian": {
+          "date": "18-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": { "en": "Saturday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "05-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:53 (EET)",
+        "Sunrise": "06:23 (EET)",
+        "Dhuhr": "11:40 (EET)",
+        "Asr": "14:38 (EET)",
+        "Sunset": "16:57 (EET)",
+        "Maghrib": "16:57 (EET)",
+        "Isha": "18:18 (EET)",
+        "Imsak": "04:43 (EET)",
+        "Midnight": "23:40 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:54 (EET)"
+      },
+      "date": {
+        "readable": "19 Nov 2023",
+        "timestamp": "1700377261",
+        "gregorian": {
+          "date": "19-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": { "en": "Sunday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "06-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:53 (EET)",
+        "Sunrise": "06:24 (EET)",
+        "Dhuhr": "11:40 (EET)",
+        "Asr": "14:38 (EET)",
+        "Sunset": "16:57 (EET)",
+        "Maghrib": "16:57 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:43 (EET)",
+        "Midnight": "23:40 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:55 (EET)"
+      },
+      "date": {
+        "readable": "20 Nov 2023",
+        "timestamp": "1700463661",
+        "gregorian": {
+          "date": "20-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": { "en": "Monday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "07-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:54 (EET)",
+        "Sunrise": "06:24 (EET)",
+        "Dhuhr": "11:40 (EET)",
+        "Asr": "14:38 (EET)",
+        "Sunset": "16:56 (EET)",
+        "Maghrib": "16:56 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:44 (EET)",
+        "Midnight": "23:40 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:55 (EET)"
+      },
+      "date": {
+        "readable": "21 Nov 2023",
+        "timestamp": "1700550061",
+        "gregorian": {
+          "date": "21-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": { "en": "Tuesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "08-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:55 (EET)",
+        "Sunrise": "06:25 (EET)",
+        "Dhuhr": "11:41 (EET)",
+        "Asr": "14:38 (EET)",
+        "Sunset": "16:56 (EET)",
+        "Maghrib": "16:56 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:45 (EET)",
+        "Midnight": "23:41 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:55 (EET)"
+      },
+      "date": {
+        "readable": "22 Nov 2023",
+        "timestamp": "1700636461",
+        "gregorian": {
+          "date": "22-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": { "en": "Wednesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "09-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:55 (EET)",
+        "Sunrise": "06:26 (EET)",
+        "Dhuhr": "11:41 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:56 (EET)",
+        "Maghrib": "16:56 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:45 (EET)",
+        "Midnight": "23:41 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:56 (EET)"
+      },
+      "date": {
+        "readable": "23 Nov 2023",
+        "timestamp": "1700722861",
+        "gregorian": {
+          "date": "23-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": { "en": "Thursday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "10-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:56 (EET)",
+        "Sunrise": "06:27 (EET)",
+        "Dhuhr": "11:41 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:55 (EET)",
+        "Maghrib": "16:55 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:46 (EET)",
+        "Midnight": "23:41 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:56 (EET)"
+      },
+      "date": {
+        "readable": "24 Nov 2023",
+        "timestamp": "1700809261",
+        "gregorian": {
+          "date": "24-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": { "en": "Friday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "11-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "\u0627\u0644\u062c\u0645\u0639\u0629"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:57 (EET)",
+        "Sunrise": "06:28 (EET)",
+        "Dhuhr": "11:42 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:55 (EET)",
+        "Maghrib": "16:55 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:47 (EET)",
+        "Midnight": "23:41 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:57 (EET)"
+      },
+      "date": {
+        "readable": "25 Nov 2023",
+        "timestamp": "1700895661",
+        "gregorian": {
+          "date": "25-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": { "en": "Saturday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "12-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "\u0627\u0644\u0633\u0628\u062a"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:57 (EET)",
+        "Sunrise": "06:29 (EET)",
+        "Dhuhr": "11:42 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:55 (EET)",
+        "Maghrib": "16:55 (EET)",
+        "Isha": "18:17 (EET)",
+        "Imsak": "04:47 (EET)",
+        "Midnight": "23:42 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:57 (EET)"
+      },
+      "date": {
+        "readable": "26 Nov 2023",
+        "timestamp": "1700982061",
+        "gregorian": {
+          "date": "26-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": { "en": "Sunday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "13-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "\u0627\u0644\u0627\u062d\u062f"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:58 (EET)",
+        "Sunrise": "06:29 (EET)",
+        "Dhuhr": "11:42 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:55 (EET)",
+        "Maghrib": "16:55 (EET)",
+        "Isha": "18:16 (EET)",
+        "Imsak": "04:48 (EET)",
+        "Midnight": "23:42 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:58 (EET)"
+      },
+      "date": {
+        "readable": "27 Nov 2023",
+        "timestamp": "1701068461",
+        "gregorian": {
+          "date": "27-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": { "en": "Monday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "14-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "04:59 (EET)",
+        "Sunrise": "06:30 (EET)",
+        "Dhuhr": "11:43 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:55 (EET)",
+        "Maghrib": "16:55 (EET)",
+        "Isha": "18:16 (EET)",
+        "Imsak": "04:49 (EET)",
+        "Midnight": "23:42 (EET)",
+        "Firstthird": "21:26 (EET)",
+        "Lastthird": "01:58 (EET)"
+      },
+      "date": {
+        "readable": "28 Nov 2023",
+        "timestamp": "1701154861",
+        "gregorian": {
+          "date": "28-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": { "en": "Tuesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "15-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:00 (EET)",
+        "Sunrise": "06:31 (EET)",
+        "Dhuhr": "11:43 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:54 (EET)",
+        "Maghrib": "16:54 (EET)",
+        "Isha": "18:16 (EET)",
+        "Imsak": "04:50 (EET)",
+        "Midnight": "23:43 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:59 (EET)"
+      },
+      "date": {
+        "readable": "29 Nov 2023",
+        "timestamp": "1701241261",
+        "gregorian": {
+          "date": "29-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": { "en": "Wednesday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "16-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:00 (EET)",
+        "Sunrise": "06:32 (EET)",
+        "Dhuhr": "11:43 (EET)",
+        "Asr": "14:37 (EET)",
+        "Sunset": "16:54 (EET)",
+        "Maghrib": "16:54 (EET)",
+        "Isha": "18:16 (EET)",
+        "Imsak": "04:50 (EET)",
+        "Midnight": "23:43 (EET)",
+        "Firstthird": "21:27 (EET)",
+        "Lastthird": "01:59 (EET)"
+      },
+      "date": {
+        "readable": "30 Nov 2023",
+        "timestamp": "1701327661",
+        "gregorian": {
+          "date": "30-11-2023",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": { "en": "Thursday" },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2023",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "17-05-1445",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "\u0627\u0644\u062e\u0645\u064a\u0633"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jum\u0101d\u00e1 al-\u016bl\u00e1",
+            "ar": "\u062c\u064f\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"
+          },
+          "year": "1445",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 30.079694,
+        "longitude": 31.323437,
+        "timezone": "Africa\/Cairo",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  ]
+}

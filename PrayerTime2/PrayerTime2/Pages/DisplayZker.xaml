@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.DisplayZker"
+             Shell.NavBarIsVisible="True">
+    
+    <ContentPage.Content>
+        <FlexLayout>
+
+            <Grid>
+                <Image Source="mosque2.jpg" Aspect="AspectFill" Grid.Row="0"/>
+                <Grid>
+                    <Grid.RowDefinitions>
+                    <RowDefinition Height=".1*"/>
+                    <RowDefinition Height=".9*"/>
+                </Grid.RowDefinitions>
+                    <FlexLayout Grid.Row="0" JustifyContent="Center" AlignContent="Center"  >
+                        <Frame  CornerRadius="20" Opacity=".7" BackgroundColor="#F29727" HeightRequest="70" WidthRequest="50" Margin = "15 " >
+                            <Label x:Name="Counter" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="18" />
+                        </Frame>
+                    </FlexLayout>
+                    <ListView Grid.Row="1" x:Name="listview" Margin="20" HasUnevenRows="True" >
+                    <ListView.ItemTemplate >
+                        <DataTemplate >
+                            <ViewCell >
+                                <ViewCell.View >
+                                    <Frame CornerRadius="20" Opacity=".7" Margin="10" BackgroundColor="#F9F2ED"  >
+                                        <StackLayout >
+                                            <Label Text="{Binding content}" FontFamily="font1"   TextColor="Black" FontSize="20"/>
+                                            <Label Text="{Binding description}" FontFamily="font1"  TextColor="#133B5C" FontSize="20"/>
+                                                <Label Text="{Binding count , StringFormat='عدد المرات {0:F2}'}" FontFamily="font1"  TextColor="#133B5C" FontSize="20" Margin="20"/>
+                                            <Button Text="تم" FontFamily="font1"  TextColor="Black" FontSize="20" Clicked="Button_Clicked"/>
+                                        </StackLayout>
+                                    </Frame>
+                                </ViewCell.View>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                    </Grid>
+                    </Grid>
+        </FlexLayout>
+    </ContentPage.Content>
+</ContentPage>

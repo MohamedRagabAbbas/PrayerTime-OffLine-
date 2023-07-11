@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrayerTime2.Pages.AzkarPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image Source="Mosque5.jpg" Aspect="AspectFill" Grid.Row="0"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".4*"/>
+                    <RowDefinition Height=".6*"/>
+                </Grid.RowDefinitions>
+                <Image Source="logo3.png" Aspect="Fill"/>
+                <ScrollView Margin="5" FlowDirection="RightToLeft" Grid.Row="1">
+                    <StackLayout  FlowDirection="MatchParent">
+                        <Button Text="أذكار الصباح" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_1"/>
+                        <Button Text="أذكار المساء" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_2"/>
+                        <Button Text="أذكار بعد السلام من الصلاة المفروضة" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_3"/>
+                        <Button Text="تسابيح" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_4"/>
+                        <Button Text="أذكار النوم" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_5"/>
+                        <Button Text="أذكار الاستيقاظ" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_6"/>
+                        <Button Text="أدعية قرآنية" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_7"/>
+                        <Button Text="أدعية الأنبياء" FontFamily="font2" HorizontalOptions="Center" VerticalOptions="Center"  TextColor="Black" FontSize="22" CornerRadius="100"  BorderColor="#FFDCAE" BackgroundColor="#ADCF9F" Opacity=".7" HeightRequest="60"  WidthRequest="400" Clicked="Button_Clicked_8"/>
+                    </StackLayout>
+                </ScrollView>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
