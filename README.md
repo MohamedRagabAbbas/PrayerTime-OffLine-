@@ -1,12 +1,12 @@
 # Prayer Times, Hadith, and Azkar App
 
 This application is designed to provide accurate prayer times, display a collection of Hadith, and offer a digital Tasbeeh (electronic Sebha) for users. The app can be used offline, eliminating the need for internet access. Additionally, it includes a comprehensive collection of Azkar (remembrance of Allah).
-<img src="ScreenShots/Screenshot_1.png" alt="Alt text" width="280" height="550" />
-<img src="ScreenShots/Screenshot_2.png" alt="Alt text" width="280" height="550" />
-<img src="ScreenShots/Screenshot_3.png" alt="Alt text" width="280" height="550" />
-<img src="ScreenShots/Screenshot_4.png" alt="Alt text" width="280" height="550" />
-<img src="ScreenShots/Screenshot_5.png" alt="Alt text" width="280" height="550" />
-<img src="ScreenShots/Screenshot_6.png" alt="Alt text" width="280" height="550" />
+<img src="ScreenShots/Screenshot_1.png" alt="Alt text" width="260" height="500" />
+<img src="ScreenShots/Screenshot_2.png" alt="Alt text" width="260" height="500" />
+<img src="ScreenShots/Screenshot_3.png" alt="Alt text" width="260" height="500" />
+<img src="ScreenShots/Screenshot_4.png" alt="Alt text" width="260" height="500" />
+<img src="ScreenShots/Screenshot_5.png" alt="Alt text" width="260" height="500" />
+<img src="ScreenShots/Screenshot_6.png" alt="Alt text" width="260" height="500" />
 
 
 ## Table of Contents
